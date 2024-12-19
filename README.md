@@ -1,6 +1,6 @@
+## Rotten Tomatoes Movies Model
 
 ```markdown
-# Rotten Tomatoes Movies Model
 
 ## Project Overview
 This project demonstrates a Machine Learning pipeline to predict **audience ratings** using a provided dataset. The code implements data preprocessing, exploratory data analysis (EDA), feature engineering, and model training with various regression techniques.
@@ -62,3 +62,5 @@ The dataset used for this project is **`Rotten_Tomatoes_Movies3.xls`**. Ensure t
 ## Contact
 For any questions or issues, feel free to raise them via [GitHub Issues](https://github.com/SathishMadhiyalagan/RottenTomatoesMoviesModel/issues).
 ```
+
+Let me know if you need further assistance! 😊
