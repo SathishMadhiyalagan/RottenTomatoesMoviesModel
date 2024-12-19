@@ -1,7 +1,5 @@
 ## Rotten Tomatoes Movies Model
 
-```markdown
-
 ## Project Overview
 This project demonstrates a Machine Learning pipeline to predict **audience ratings** using a provided dataset. The code implements data preprocessing, exploratory data analysis (EDA), feature engineering, and model training with various regression techniques.
 
