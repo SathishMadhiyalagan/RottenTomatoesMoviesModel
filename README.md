@@ -58,7 +58,6 @@ The dataset used for this project is **`Rotten_Tomatoes_Movies3.xls`**. Ensure t
 - Check the `README.md` file for instructions on setting up and running the project.
 
 ## Contact
-For any questions or issues, feel free to raise them via [GitHub Issues](https://github.com/SathishMadhiyalagan/RottenTomatoesMoviesModel/issues).
-```
+For any questions or issues, feel free to raise them via [GitHub Issues](https://www.linkedin.com/in/sathish-madhiyalagan-be-python-developer/).
 
 Let me know if you need further assistance! 😊
