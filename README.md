@@ -46,7 +46,7 @@ RottenTomatoesMoviesModel/
 ├── .gitignore                      # Files and folders to exclude from Git
 ├── Rotten_Tomatoes_Movies3.xls     # Dataset file
 ├── RottenTomatoesMoviesModel.ipynb # Jupyter Notebook
-├── RottenTomatoesMoviesModel.PPT   # Project presentation file
+├── RottenTomatoesMoviesModel.pdf   # Project presentation file
 ```
 
 ## Dataset
